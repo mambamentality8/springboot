@@ -9,6 +9,7 @@ import org.springframework.stereotype.Component;
 @Component
 @PropertySource({"classpath:application.properties"})
 @ConfigurationProperties(prefix="test")
+
 public class ServerSettings {
 
 	//名称
@@ -34,4 +35,8 @@ public class ServerSettings {
 	public void setDomain(String domain) {
 		this.domain = domain;
 	}
+	
+	
+	
+	
 }
