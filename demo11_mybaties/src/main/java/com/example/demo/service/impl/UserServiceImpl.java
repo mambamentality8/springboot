@@ -25,7 +25,6 @@ public class UserServiceImpl implements UserService {
 	}
 
 	@Override
-	@Transactional(propagation= Propagation.REQUIRED)
 	public int addAccount() {
 		User user = new User();
 		user.setAge(88);
