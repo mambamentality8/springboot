@@ -1,0 +1,32 @@
+2019-03-27 08:43:09.482 INFO [main]com.example.demo.DemoApplication.logStarting:50 -Starting DemoApplication on DESKTOP-K6S8PNL with PID 3100 (D:\workspace\xdclass_workspace\springboot\demo14_logback\target\classes started by boss_hou in D:\workspace\xdclass_workspace\springboot\demo14_logback)
+2019-03-27 08:43:09.488 INFO [main]com.example.demo.DemoApplication.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-03-27 08:43:10.771 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2019-03-27 08:43:10.784 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-27 08:43:10.805 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2019-03-27 08:43:10.805 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-27 08:43:10.812 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\develop\jdk\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\develop\jdk\bin;D:\Android\adt-bundle-windows-x86_64_20140101\sdk\platform-tools;D:\Android\android-ndk-r10e;D:\Android\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;D:\softs\Git\cmd;;D:\softs\UltraCompare;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\boss_hou\AppData\Local\Microsoft\WindowsApps;;D:\softs\Microsoft VS Code\bin;.]
+2019-03-27 08:43:10.912 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2019-03-27 08:43:10.912 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1354 ms
+2019-03-27 08:43:11.149 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-27 08:43:11.307 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-03-27 08:43:11.327 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-27 08:43:11.330 INFO [main]com.example.demo.DemoApplication.logStarted:59 -Started DemoApplication in 2.519 seconds (JVM running for 5.235)
+2019-03-27 08:47:54.971 DEBUG[background-preinit]o.h.v.m.ResourceBundleMessageInterpolator.buildExpressionFactory:89 -Loaded expression factory via original TCCL
+2019-03-27 08:47:55.102 INFO [main]com.example.demo.DemoApplication.logStarting:50 -Starting DemoApplication on DESKTOP-K6S8PNL with PID 18976 (D:\workspace\xdclass_workspace\springboot\demo14_logback\target\classes started by boss_hou in D:\workspace\xdclass_workspace\springboot\demo14_logback)
+2019-03-27 08:47:55.103 INFO [main]com.example.demo.DemoApplication.logStartupProfileInfo:675 -No active profile set, falling back to default profiles: default
+2019-03-27 08:47:56.116 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.initialize:90 -Tomcat initialized with port(s): 8080 (http)
+2019-03-27 08:47:56.129 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Initializing ProtocolHandler ["http-nio-8080"]
+2019-03-27 08:47:56.136 INFO [main]org.apache.catalina.core.StandardService.log:173 -Starting service [Tomcat]
+2019-03-27 08:47:56.136 INFO [main]org.apache.catalina.core.StandardEngine.log:173 -Starting Servlet engine: [Apache Tomcat/9.0.16]
+2019-03-27 08:47:56.143 INFO [main]org.apache.catalina.core.AprLifecycleListener.log:173 -The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\develop\jdk\bin;C:\windows\Sun\Java\bin;C:\windows\system32;C:\windows;C:\develop\jdk\bin;D:\Android\adt-bundle-windows-x86_64_20140101\sdk\platform-tools;D:\Android\android-ndk-r10e;D:\Android\android-ndk-r10e\toolchains\arm-linux-androideabi-4.9\prebuilt\windows-x86_64\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;D:\softs\Git\cmd;;D:\softs\UltraCompare;C:\Program Files\dotnet\;C:\Strawberry\c\bin;C:\Strawberry\perl\site\bin;C:\Strawberry\perl\bin;C:\Users\boss_hou\AppData\Local\Microsoft\WindowsApps;;D:\softs\Microsoft VS Code\bin;.]
+2019-03-27 08:47:56.232 INFO [main]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring embedded WebApplicationContext
+2019-03-27 08:47:56.233 INFO [main]org.springframework.web.context.ContextLoader.prepareWebApplicationContext:296 -Root WebApplicationContext: initialization completed in 1078 ms
+2019-03-27 08:47:56.473 INFO [main]o.s.scheduling.concurrent.ThreadPoolTaskExecutor.initialize:171 -Initializing ExecutorService 'applicationTaskExecutor'
+2019-03-27 08:47:56.617 INFO [main]org.apache.coyote.http11.Http11NioProtocol.log:173 -Starting ProtocolHandler ["http-nio-8080"]
+2019-03-27 08:47:56.638 INFO [main]o.s.boot.web.embedded.tomcat.TomcatWebServer.start:204 -Tomcat started on port(s): 8080 (http) with context path ''
+2019-03-27 08:47:56.641 INFO [main]com.example.demo.DemoApplication.logStarted:59 -Started DemoApplication in 2.132 seconds (JVM running for 3.208)
+2019-03-27 08:48:09.359 INFO [http-nio-8080-exec-1]o.a.catalina.core.ContainerBase.[Tomcat].[localhost].[/].log:173 -Initializing Spring DispatcherServlet 'dispatcherServlet'
+2019-03-27 08:48:09.360 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:524 -Initializing Servlet 'dispatcherServlet'
+2019-03-27 08:48:09.366 INFO [http-nio-8080-exec-1]org.springframework.web.servlet.DispatcherServlet.initServletBean:546 -Completed initialization in 6 ms
+2019-03-27 08:48:26.220 INFO [http-nio-8080-exec-4]com.example.demo.controller.UserController.testLog:25 -this is info level 
+2019-03-27 08:48:26.220 WARN [http-nio-8080-exec-4]com.example.demo.controller.UserController.testLog:26 -this is warn level 

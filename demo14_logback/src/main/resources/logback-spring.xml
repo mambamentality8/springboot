@@ -48,6 +48,8 @@
 
         </rollingPolicy>
     </appender>
+
+    <!--控制输出的最更高级别-->
     <root level="INFO">
         <appender-ref ref="consoleApp"/>
         <appender-ref ref="fileInfoApp"/>
