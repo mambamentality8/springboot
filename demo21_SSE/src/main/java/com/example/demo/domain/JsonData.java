@@ -2,14 +2,6 @@ package com.example.demo.domain;
 
 import java.io.Serializable;
 
-/**
- * 功能描述：响应结果类
- *
- * <p>
- * 创建时间：Apr 29, 2018 4:08:36 PM
- * </p>
- *
- */
 public class JsonData implements Serializable {
 
 	/**
